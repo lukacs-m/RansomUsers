@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91BEBF0D-105F-4B92-97C4-73F167AB84B5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8049F838-F139-4B13-A54C-89CC07B11A50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomUsers/Scenes/UserListView/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "bindViewToViewModel()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "571E48C8-9895-430E-B86E-D83001FD59FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomUsersTests/UseCasesTests/LoadUsersTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "test_userLoadingUseCase_shouldLoadNewUsersInRepo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BA1C294-E403-484C-B65C-BA88F2DE06A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomUsersTests/Utils/MockUserRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "loadUsers(shouldFresh:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38BFE899-55E3-46DF-87F4-E3F109B54E0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomUsersTests/ViewModelTests/UserListViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "test_ViewModelState_shouldloadusers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38BFE899-55E3-46DF-87F4-E3F109B54E0D - 7376b384a5c4f171"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomUsersTests.UserListViewModelTests.test_ViewModelState_shouldloadusers() throws -&gt; ()"
+                  moduleName = "RandomUsersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mlukacs/Projects/GithubProjects/RandomUsers/RandomUsersTests/ViewModelTests/UserListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  uuid = "38BFE899-55E3-46DF-87F4-E3F109B54E0D - 7376b384a5c4f171"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomUsersTests.UserListViewModelTests.test_ViewModelState_shouldloadusers() throws -&gt; ()"
+                  moduleName = "RandomUsersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mlukacs/Projects/GithubProjects/RandomUsers/RandomUsersTests/ViewModelTests/UserListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "864">
+               </Location>
+               <Location
+                  uuid = "38BFE899-55E3-46DF-87F4-E3F109B54E0D - 7376b384a5c4f192"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomUsersTests.UserListViewModelTests.test_ViewModelState_shouldloadusers() throws -&gt; ()"
+                  moduleName = "RandomUsersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mlukacs/Projects/GithubProjects/RandomUsers/RandomUsersTests/ViewModelTests/UserListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
